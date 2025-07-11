@@ -1,2 +1,3 @@
 # translation-formats-samples
-Sample repository showcasing standard localization file formats for developers and translators.
+
+This is an example repository showcasing different file formats used with the [Localit](https://localit.io/) and other translation management systems.
